@@ -1,0 +1,37 @@
+@import "../fonts";
+/*Footer*/
+.footer{
+  margin: 0;
+}
+.footer_title{
+  font-family: 'Kaushan Script', cursive;
+  font-size: 18px;
+  text-align: center;
+}
+.footer_subtitle{
+  text-transform: uppercase;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  text-align: center;
+}
+.footer_link{
+  display: block;
+}
+.footer_img{
+  width: 64px;
+  height: 64px;
+}
+.map{
+  background: url(../../../assets/images/footer.png) no-repeat center / cover;
+  height: 200px;
+  margin-top: 120px;
+}
+.map_content{
+  padding-top: 30px;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: 'Montserrat', sans-serif;
+  color: #f38181;
+  font-size: 24px;
+
+}
